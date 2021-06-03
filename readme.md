@@ -1,6 +1,6 @@
 # 킥라니 멈춰! 
 
-This is the repository that contain the code run on the **jetson nano** to detect E-scooter rider on the road with **YOLOv5 object detection**.
+This is a repository that contains the code run on the **jetson nano** to detect E-scooter riders on the road with **YOLOv5 object detection**.
 
 
 
